@@ -1,0 +1,5 @@
+hostname,ip_address,device_type,location
+lab-router-01,192.0.2.1,router,Lab
+lab-switch-01,192.0.2.2,switch,Lab
+lab-server-01,198.51.100.10,server,Lab
+lab-ap-01,203.0.113.20,access-point,Lab
